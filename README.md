@@ -7,6 +7,9 @@
 - Zustand
 - **Vanilla CSS Only** (no Tailwind)
 - Framer Motion
+
+backend repo :- https://github.com/adityamohite0106/Credit-Referal-Backend
+
 <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/1109b241-f718-46fb-86bf-83970f2683eb" />
 
 ## Setup
