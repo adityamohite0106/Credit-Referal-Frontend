@@ -26,7 +26,7 @@ export default function Login() {
       className="min-h-screen flex items-center justify-center py-10"
     >
       <div className="card" style={{ maxWidth: '420px', width: '100%' }}>
-        <h1 className="text-center mb-6">Welcome Back</h1>
+        <h1 className="text-center mb-6">Welcome Back Login</h1>
         <form onSubmit={handleSubmit}>
           <div className="form-group">
             <input
